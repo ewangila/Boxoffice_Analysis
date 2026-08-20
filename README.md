@@ -1,5 +1,4 @@
-# Box Office Analysis  
-### Movie Industry Investment Strategy: A Data-Driven Approach to Production
+# Movie Industry Investment Strategy: A Data-Driven Approach to Production
 
 **Author:** Eugin Wangila  
 
