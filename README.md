@@ -163,4 +163,3 @@ Boxoffice_Analysis/
 
 ---
 
-*This project was completed as part of a data science curriculum focused on exploratory data analysis and business storytelling.*
