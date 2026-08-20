@@ -102,6 +102,12 @@ Correlation between production budget and IMDb rating is near zero.
 
 ---
 
+## Interactive Dashboard
+
+[→ Open Interactive Tableau Dashboard](https://public.tableau.com/app/profile/eugin.wangila/viz/BoxOfficeDynamics/BoxOfficeDynamicsBudgetsGenresandRatings)
+
+---
+
 ## Limitations
 
 - Matching between financial data and IMDb was performed on **movie titles**, which can introduce mismatches due to duplicate titles, spelling variations, or different versions of films.
