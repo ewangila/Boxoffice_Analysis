@@ -1,9 +1,5 @@
 *.db
 *.zip
-*.tsv
-*.xlsx
-*.xls
-*.csv
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
