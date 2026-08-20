@@ -132,10 +132,13 @@ A second-stage predictive model could estimate expected return of a proposed fil
 ## Repository Structure
 ```
 Boxoffice_Analysis/
-├── Project_notebook.ipynb          # Full analysis notebook
-├── final_cleaned_movie_data.csv    # Cleaned merged dataset
-├── final_cleaned_movie_data_exploded.csv  # Genre-exploded version
-├── tn.movie_budgets.csv            # Source budget data
+├── data/
+│   ├── final_cleaned_movie_data.csv          # Cleaned merged dataset
+│   ├── final_cleaned_movie_data_exploded.csv # Genre-exploded version
+│   └── tn.movie_budgets.csv                  # Source budget data
+├── Project_notebook.ipynb                    # Full analysis notebook
+├── requirements.txt                          # Python dependencies
+├── LICENSE                                   # MIT License
 ├── .gitignore
 └── README.md
 ```
