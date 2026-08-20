@@ -2,10 +2,6 @@
 ### Movie Industry Investment Strategy: A Data-Driven Approach to Production
 
 **Author:** Eugin Wangila  
-**Student Pace:** Self-paced / Part-time / Full-time  
-**Scheduled Review Date/Time:** TBD  
-**Instructor:** TBD  
-**Blog Post URL:** TBD  
 
 ---
 
